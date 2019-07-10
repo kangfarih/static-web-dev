@@ -1,0 +1,22 @@
+{
+  "name": "static-web-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=8080 --open=./build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangfarih/static-web-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangfarih/static-web-dev/issues"
+  },
+  "homepage": "https://github.com/kangfarih/static-web-dev#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
